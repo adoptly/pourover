@@ -1,3 +1,5 @@
+var _ = require('underscore');
+
 var PourOver = (function(){
     var ctor = function(){};
 
@@ -1928,3 +1930,5 @@ var PourOver = (function(){
 
     return PourOver;
 })();
+
+module.exports = PourOver;

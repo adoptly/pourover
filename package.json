@@ -1,0 +1,27 @@
+{
+  "name": "pourover",
+  "version": "1.0.0",
+  "description": "**PourOver** is a library for simple, fast filtering and sorting of large collections -- think 100,000s of items -- in the browser. It allows you to build data-exploration apps and archives that run at 60fps, that don't have to to wait for a database call to render query results.",
+  "main": "pourover.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoptly/pourover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adoptly/pourover/issues"
+  },
+  "homepage": "https://github.com/adoptly/pourover#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
